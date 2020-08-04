@@ -26,7 +26,7 @@ function setup() {
    // World.remove(world,dustbin);
 
     body1=new Support(1250,515,10,20);
-    body2=new Support(1350,515,10,20);
+    body2=new Support(1350,460,10,155);
     body3=new Support(1300,525,100,10);
 
 
